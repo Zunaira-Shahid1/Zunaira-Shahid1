@@ -46,7 +46,7 @@ Leading QA efforts for educational platforms with focus on automation using Play
 
 ## 📄 Resume & Portfolio
 
-📥 **[Download My Complete Resume (PDF)](link-to-your-resume.pdf](https://drive.google.com/file/d/1p6nx_GzjlmzLVG2uvF1yJ0WjZJP70N46/view?usp=sharing)**
+📥 **[Download My Complete Resume (PDF)](https://drive.google.com/file/d/1p6nx_GzjlmzLVG2uvF1yJ0WjZJP70N46/view?usp=sharing)**
 
 ---
 

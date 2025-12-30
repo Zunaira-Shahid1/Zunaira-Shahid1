@@ -10,7 +10,7 @@
 - 💼 **Expertise:** Manual & Automation Testing | Web, Mobile, API & Database Testing
 - 🛠️ **Tools:** Playwright, Cypress, Postman, SQL, JIRA, Git , Replit , Codex , Claude Code , VS Code , Android Studio
 - 🌱 **Currently Exploring:** Performance Testing & Advanced Automation Frameworks
-- 📍 **Location:** Rawalpindi, Punjab, Pakistan
+- 📍 **Location:** Islamabad , Pakistan
 
 ---
 
@@ -18,13 +18,13 @@
 
 **Testing:** Manual Testing • Automation Testing • API Testing • Mobile Testing • Database Testing • Regression • Smoke • Sanity • UAT
 
-**Automation Tools:** Playwright • Cypress • Selenium
+**Automation Tools:** Playwright • Cypress
 
 **API & Database:** Postman • REST API • SQL Queries • Migration Testing
 
-**Methodologies:** Agile • SDLC • STLC • Bug Life Cycle
+**Methodologies:** Agile • SDLC • STLC • SBLC
 
-**Tools & Platforms:** JIRA • Confluence • Git • GitHub • Browser DevTools
+**Tools & Platforms:** JIRA • Git • GitHub • Browser DevTools
 
 ---
 
